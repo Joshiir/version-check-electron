@@ -1,0 +1,14 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "Check Chromium, Node and Electron versions",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Joshua Reid",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.4"
+  }
+}
